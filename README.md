@@ -37,7 +37,7 @@ flutter的选修课作业（虽然很简陋，而且也不会写前端，但对�
 1. 使用了flutter，dart语言
 2. 注册登录使用sharedreference储存密码
 3. 新闻采用sqlite数据库储存和查询
-4. 新闻接口和格言接口为天行api (https://bangumi.github.io/api/)
+4. 新闻接口和格言接口为天行api (https://www.tianapi.com/)
 5. 而动画接口为bangumi的api  (https://bangumi.github.io/api/)
 6. 展示详情页面使用webView库 下载图片为dio库(等...)
 
@@ -56,5 +56,8 @@ flutter install
 1. 学完的感觉就是不太会写flutter
 2. 新闻缓存是有bug的，一旦缓存便不会更新新闻了，解决可以使用定时任务的方式
 3. 不过学这个也不是没有收获
+
+
+
 
 
