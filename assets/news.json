@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "result": {
+    "curpage": 1,
+    "allnum": 10,
+    "newslist": [
+      {
+        "id": "871e079a4ee6c74c04518a727327487c",
+        "ctime": "2024-02-26 21:00",
+        "title": "测试"
+      }
+    ]
+  }
+}
